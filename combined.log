@@ -1,5 +1,0 @@
-{"level":"info","message":"Esto está bien","service":"user-service"}
-{"level":"info","message":"no pas{o la prueba","service":"user-service"}
-{"level":"debug","message":"No es un numero","service":"user-service"}
-{"level":"debug","message":"No es un numero","service":"user-service"}
-{"level":"error","message":"Este es un mensaje personalizado de error","service":"user-service"}
