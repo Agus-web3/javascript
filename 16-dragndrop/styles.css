@@ -1,0 +1,27 @@
+.seccion{
+    background-color: darkslategrey;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.parrafo{
+    background-color: aliceblue;
+    padding: 2rem;
+}
+
+.seccion-basura{
+    background-color: darkslategrey;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.btn {
+    background-color: blue;
+    border-radius: 5px;
+    padding: 1rem;
+    justify-content: center;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: rgba(15, 15, 158, 0.733); 
+}
